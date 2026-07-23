@@ -1,0 +1,6 @@
+{
+  "name": "AI Office Assistant",
+  "description": "A professional AI-powered workspace assistant that helps employees, students, and professionals create, refine, and manage official workplace communication and documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
