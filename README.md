@@ -43,10 +43,15 @@ Help users with professional writing, document analysis, and productivity tasks.
 - Vercel
 
 ## 📸 Screenshots
-home.png
-generator.png
-analyzer.png
 
+### Home Page
+![Home Page](src/screenshots/1.png)
+
+### AI Generator
+![AI Generator](src/screenshots/2.png)
+
+### Document Analyzer
+![Document Analyzer](src/screenshots/3.png)
 ## ⚙️ How To Run
 
 Install dependencies:
