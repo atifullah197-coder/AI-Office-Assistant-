@@ -1,20 +1,62 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🤖 AI Office Assistant
 
-# Run and deploy your AI Studio app
+## 📌 About The App
 
-This contains everything you need to run your app locally.
+AI Office Assistant is an AI-powered web application that helps students and professionals complete office tasks easily.
 
-View your app in AI Studio: https://ai.studio/apps/6d2bc48f-339b-4fc9-92d2-c9c43767f354
+It helps users generate content, improve writing, analyze documents, and increase productivity using Artificial Intelligence.
 
-## Run Locally
+## 🎯 Problem It Solves
 
-**Prerequisites:**  Node.js
+Many students and office workers spend a lot of time writing emails, reports, and documents.
 
+This app solves this problem by providing AI assistance for daily office work.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🌐 Live Demo
+
+https://ai-office-assistant-267o7138i-atifullah1.vercel.app/
+
+## ✨ Features
+
+- AI Content Generator
+- Document Analyzer
+- Tone Converter
+- Multilingual Assistant
+- User Dashboard
+
+## 🤖 AI Feature
+
+The application uses AI to generate professional content and assist users with office tasks.
+
+### AI Instructions / System Prompt
+
+You are an AI Office Assistant.
+Help users with professional writing, document analysis, and productivity tasks.
+
+## 🛠️ Tools & Technologies
+
+- React
+- TypeScript
+- Vite
+- AI API
+- GitHub
+- Vercel
+
+## 📸 Screenshots
+home.png
+generator.png
+analyzer.png
+
+## ⚙️ How To Run
+
+Install dependencies:
+
+npm install
+
+Run project:
+
+npm run dev
+
+## 👨‍💻 Developer
+
+Atif Ullah
