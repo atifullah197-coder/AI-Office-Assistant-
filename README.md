@@ -14,7 +14,7 @@ This app solves this problem by providing AI assistance for daily office work.
 
 ## 🌐 Live Demo
 
-https://ai-office-assistant-267o7138i-atifullah1.vercel.app/
+https://ai-office-assistant-eight.vercel.app
 
 ## ✨ Features
 
